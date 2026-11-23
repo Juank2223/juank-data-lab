@@ -52,4 +52,4 @@ Enviar solo una descripción, formato, volumen, plazo y, si hace falta, una mues
 Contacto comercial: triride593@gmail.com  
 [Catálogo general](README.md) · [Consulta pública sin archivos privados](https://github.com/Juank2223/juank-data-lab/issues/1)
 
-Versión comercial: 23 de noviembre de 2026. Importes de oferta; no representan ingresos obtenidos.
+Versión comercial: 23 de noviembre de 2026.
