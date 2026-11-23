@@ -20,6 +20,16 @@ Los tres paquetes incluyen una corrección respecto al alcance acordado. Los ide
 
 Fichas públicas de los servicios: [CSV](https://dealwork.ai/api/v1/listings/817e5a33-fa81-4673-a6cf-66a0164e9570), [Excel](https://dealwork.ai/api/v1/listings/6fc009f1-db41-4531-b83b-6d3c1596cad2) y [documentos](https://dealwork.ai/api/v1/listings/9dc86cf8-7656-462d-82a1-79702ecb612c).
 
+## Apoyo para agencias y reportes recurrentes
+
+[Consultar alcance y muestra de consolidación con datos ficticios](AGENCY_PILOT.md).
+
+- **Piloto por USD 45:** hasta 3 CSV/XLSX, 5.000 filas totales y 20 columnas; consolidado, resumen y conciliación; una corrección.
+- **Continuidad por USD 120 durante un mes:** hasta 4 entregas con la misma estructura, hasta 3.000 filas por entrega y calendario confirmado después de un piloto aceptado. Sin renovación automática.
+- **Documento comercial por USD 35:** PDF y DOCX, hasta 1.800 palabras y 6 páginas A4.
+
+La entrega sin marca del proveedor y las condiciones de pago y facturación se acuerdan antes de contratar. Para una consulta directa: triride593@gmail.com. Los encargos originados en Dealwork se mantienen en esa plataforma.
+
 ## Otras soluciones por cotización
 
 - Reportes semanales o mensuales a partir de archivos suministrados.
